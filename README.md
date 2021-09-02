@@ -181,3 +181,9 @@
   한번 더 봐야겠고 너무 졸려서 일단 자야겠다.
                                 
 </details>
+                                
+<details>
+                                
+  <img width="1256" alt="스크린샷 2021-09-02 오후 3 17 01" src="https://user-images.githubusercontent.com/81910342/131792387-24d1ffa9-27b0-4d98-a280-c587d8fc0b12.png">                              
+                                
+</details>
