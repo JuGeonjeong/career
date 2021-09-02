@@ -189,4 +189,6 @@
 
  <img width="1406" alt="스크린샷 2021-09-02 오후 4 21 46" src="https://user-images.githubusercontent.com/81910342/131800517-123223c0-1fbf-4343-9f10-eddebb9bf07e.png">
 
+<img width="1389" alt="스크린샷 2021-09-02 오후 4 32 56" src="https://user-images.githubusercontent.com/81910342/131801851-17b1e88d-dda9-4c64-84b4-ca8c9ac202dc.png">
+
 </details>
