@@ -186,5 +186,7 @@
                                 <summary>0902</summary> 
 
   <img width="1256" alt="스크린샷 2021-09-02 오후 3 17 01" src="https://user-images.githubusercontent.com/81910342/131792387-24d1ffa9-27b0-4d98-a280-c587d8fc0b12.png">                              
-                                
+
+ <img width="1406" alt="스크린샷 2021-09-02 오후 4 21 46" src="https://user-images.githubusercontent.com/81910342/131800517-123223c0-1fbf-4343-9f10-eddebb9bf07e.png">
+
 </details>
