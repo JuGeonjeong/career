@@ -212,6 +212,13 @@
 <details>
                                 <summary>0904</summary> 
 
+  flex로 동적페이지만들기, html이미지 확실하게 알기, 
 
+</details>
+
+<details>
+                                <summary>0905</summary> 
+
+  flex로 동적페이지만들기, html이미지 확실하게 알기, 
 
 </details>
