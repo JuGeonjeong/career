@@ -1,7 +1,7 @@
 # career 9/1~
 
 <details>
-  <summary>0901</summary>
+  <summary>0901 HTML강의</summary>
 
 ### HTML
   #### 1강
@@ -183,7 +183,7 @@
 </details>
                                 
 <details>
-                                <summary>0902</summary> 
+                                <summary>0902 CSS강의</summary> 
 
   <img width="1256" alt="스크린샷 2021-09-02 오후 3 17 01" src="https://user-images.githubusercontent.com/81910342/131792387-24d1ffa9-27b0-4d98-a280-c587d8fc0b12.png">                              
 
@@ -199,7 +199,7 @@
 </details>
 
 <details>
-                                <summary>0903</summary> 
+                                <summary>0903 CSS강의</summary> 
 
 
 <img width="434" alt="스크린샷 2021-09-03 오전 11 46 25" src="https://user-images.githubusercontent.com/81910342/131942981-1adc16d6-ce24-4bba-bd37-dc1be2661823.png">
@@ -210,14 +210,14 @@
 </details>
 
 <details>
-                                <summary>0904</summary> 
+                                <summary>0904 CSS</summary> 
 
   flex로 동적페이지 오류, html이미지 확실하게 알기, 
 
 </details>
 
 <details>
-                                <summary>0905</summary> 
+                                <summary>0905 CSS</summary> 
 
   flex로 동적페이지 만들기   
   grid로 동적페이지 만들기
@@ -226,9 +226,9 @@
 
 
 <details>
-                                <summary>0906</summary> 
+                                <summary>0906 HTTP 강의</summary> 
 
-  HTTP 시작.  
+    
   [인터넷 네트워크]
   ## 인터넷 통신
 
