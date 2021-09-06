@@ -274,17 +274,14 @@
   IP패킷의 TCP세그먼트(출발지PORT, 목적지PORT, 전송제어, 순서, 검증 정보, ...)를 포함해줌으로써 IP의 한계를 해결해줌.   
   신뢰할 수 있는 프로토콜, 현재 대부분 TCP를 사용   
   [특징]   
-  연결지향 - TCP 3 way handshake(가상 연결)   
+     
   
-  <img width="889" alt="스크린샷 2021-09-06 오후 7 51 30" src="https://user-images.githubusercontent.com/81910342/132206384-2295616a-48f5-4772-89d1-d6bd066f6acc.png">    
+  |feature|Description|
+  |:--:|:--:|
+  |연결지향 - TCP 3 way handshake(가상 연결)|<img width="889" alt="스크린샷 2021-09-06 오후 7 51 30" src="https://user-images.githubusercontent.com/81910342/132206384-2295616a-48f5-4772-89d1-d6bd066f6acc.png">|
+  |데이터 전달 보증|   <img width="856" alt="스크린샷 2021-09-06 오후 7 52 05" src="https://user-images.githubusercontent.com/81910342/132206450-b3388241-77e3-40d2-bfd5-5166db31132f.png">|
+  |순서 보장|<img width="870" alt="스크린샷 2021-09-06 오후 7 52 23" src="https://user-images.githubusercontent.com/81910342/132206487-36054f7a-6323-4ee6-beb4-a83d6d374b18.png">|
 
-  데이터 전달 보증   
-  <img width="856" alt="스크린샷 2021-09-06 오후 7 52 05" src="https://user-images.githubusercontent.com/81910342/132206450-b3388241-77e3-40d2-bfd5-5166db31132f.png">
-
-  순서 보장   
-  <img width="870" alt="스크린샷 2021-09-06 오후 7 52 23" src="https://user-images.githubusercontent.com/81910342/132206487-36054f7a-6323-4ee6-beb4-a83d6d374b18.png">
-
-  
      
   [UDP란?]   
   TCP의 안정성을 필요로 하지 않는 애플리케이션의 경우 일반적으로 TCP 대신 비접속형 사용자 데이터그램 프로토콜(User Datagram Protocol)을 사용한다. 이것은 전달 확인 및 순차 보장 기능이 없는 대신 오버헤드가 작고 지연시간이 짧다는 장점이 있다.   
