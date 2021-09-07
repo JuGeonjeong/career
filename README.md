@@ -402,7 +402,7 @@
    웹 브라우저를 사이트를 요청하면 HTML뿐만 아니라 자바스크립트, CSS, 추가이미지 등등 수많은 자원이 함께 다운로드.   
       
    [극복]   
-   HTTP 지속연결(Persistent Connerctions)로 문제해결 <- HTTP/2 , HTTP/3 버전으로 더 많은 최적화 됨.
+   HTTP 지속연결(Persistent Connerctions)로 문제해결 <- HTTP/2 , HTTP/3 버전으로 더 많은 최적화 됨.   
    ex) 수천명이 접속중이어도 설제 동시에 처리하는 요청은 몇십개 밖에 안됨.
    
 
