@@ -335,7 +335,8 @@
    * URN 이름만으로 실제 리소스를 찾을 수 있는 방법이 보편화 되지 않음.(과거에 추진하다 잘 안됨)   
       
    [문법]   
-   프로토콜/호스트명/포트번호/패스/쿼리파라미터   
+   schema:[//[user[:password@]host[:port]][/path][?query][#fragment]   
+   <생략>프로토콜/호스트명/포트번호/패스/쿼리파라미터   
    ex)https://www.google.com:443/search?q=hello&hl=ko.  
       
    프로토콜 : 어떤 방식으로 자원에 접근할 것인가 하는 약속 규칙(http, https, ftp 등등..)   
@@ -356,7 +357,6 @@
        * Request Response 구조   
        * 클라이언트는 서버에 요청을 보내고, 응답을 대기   
        * 서버가 요청에 대한 결과를 만들어서 응답   
-   
       
    ---
       
