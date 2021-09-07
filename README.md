@@ -510,6 +510,9 @@
       
    * HTML Form 데이터 전송   
    POST 전송 - 저장   
+   
+   <details>
+   
    <img width="836" alt="스크린샷 2021-09-07 오후 3 03 31" src="https://user-images.githubusercontent.com/81910342/132292328-95b96fee-431d-41da-bdce-6c236eba5fc1.png">    
    바디에 경로   
       
@@ -526,7 +529,7 @@
    * HTTP API 데이터 전송   
    HTML form 형식을 안쓰는 거의 모든 상황, 서버 to 서버, 앱클라이언트나 웹클라이언트(Ajax) 통신
    <img width="488" alt="스크린샷 2021-09-07 오후 3 27 03" src="https://user-images.githubusercontent.com/81910342/132295016-ec1a4676-6c1e-40bd-9c98-50f559f9e4ff.png">   
-   
+   </details>
 
       
 
