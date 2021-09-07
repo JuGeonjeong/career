@@ -476,9 +476,10 @@
    #### 안전 : GET, HEAD   
    호출해도 리소스를 변경하지 않는다.   
       
-   #### 멱등 : 호출의 횟수와 상관없이 결과값이 같음.   
-   GET - 몇번해도 결과가 같음   
-   PUT - 결과를 대체함   
+   #### 멱등 : 자동 복구 메커니즘 / 서버가 TIMEOUT 등으로 정상 응답을 못주었을때, 클라이언트가 같은 요청을 다시 해도되는가? 판단 근거 
+   호출의 횟수와 상관없이 결과값이 같음.   
+   GET - 몇번조회를 해도 결과가 같음   
+   PUT - 결과를 대체함 / 멱등은 외부 요인으로 중간에 리소스가 변경되는 것 까지는 고려하지는 않는다.   
    DELETE - 결과를 삭제함. 삭제 된 결과가 같다   
    
    #### 캐시가능 : GET, HEAD, POST, PATCH   
@@ -486,6 +487,44 @@
    GET, HEAD - URL만 key로 잡고 캐쉬, 실무에서 주로 쓰임
    POST, PATCH - 본문내용까지 캐쉬 key로 고려해야 하기 때문에 사용안함 = 구현이 어려움.   
    
+   ---
+   
+   ## HTTP 메서드 활용
+   데이터 전달 방식   
+   client -> server   
+      
+   데이터 전달 대표 2가지 방식   
+   
+   #### 쿼리파라미터 - URI 끝에 key=value 형식   
+   GET / 주로 정렬 필터(검색어)   
+      
+   #### HTTP 메세지 바디를 통한 데이터 전송   
+   POST, PUT, PATCH / 회원가입, 상품주문, 리소스등록, 변경 등에 사용   
+   
+   ### client에서 server로 전송시 4가지 상황
+   * 정적데이터 조회 - 이미지, 정적테스트 문서 : 단순 경로(쿼리파라미터X).  
+      
+   * 동적데이터 조회 - GET사용 / 주로 검색, 게시판 목록에서 정렬 필터(검색어)   
+   조회 조건을 줄여주는 필터, 조회 결과를 정렬하는 정렬 조건에 주로 사용   
+   GET은 쿼리파라미터 사용해서 데이터를 전달   
+      
+   * HTML Form 데이터 전송   
+   POST 전송 - 저장   
+   <img width="836" alt="스크린샷 2021-09-07 오후 3 03 31" src="https://user-images.githubusercontent.com/81910342/132292328-95b96fee-431d-41da-bdce-6c236eba5fc1.png">   
+   바디에 경로   
+      
+   GET 전송 - 저장   
+   <img width="818" alt="스크린샷 2021-09-07 오후 3 06 17" src="https://user-images.githubusercontent.com/81910342/132292603-d7150d7e-787b-4a12-9303-063c144ff2cb.png">   
+   URI에 경로   
+   mulitpart/form-data    
+   <img width="853" alt="스크린샷 2021-09-07 오후 3 11 25" src="https://user-images.githubusercontent.com/81910342/132293128-ba9996db-e124-47ee-9687-09d5ff1e79a2.png">   
+   메세지를 자동으로 만들고 바운더리대로 짤라주고   
+   <img width="556" alt="스크린샷 2021-09-07 오후 3 15 37" src="https://user-images.githubusercontent.com/81910342/132293640-9424b2e3-0641-40fa-bb56-4536bf4f6ef1.png">   
+
+   * HTTP API 데이터 전송   
+   
+      
+
    
 
 </details>
