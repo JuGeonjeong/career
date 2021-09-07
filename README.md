@@ -286,14 +286,14 @@
 >  IP주소 + PORT주소 + 체크섬 정도만 추가(기능이 거의 없음)   
 >  IP와 거의 같음.   
 >  
-   ||TCP|UDP|
-   |:--:|:--:|:--:|
-   |연결방식|연결형 프로토콜 / 연결 후 통신 / 1:1통신방식|비연결형 프로토콜 / 연결 없이 통신 / 1:1,1:N,N:N통신방식|
-   |특징|<img width="329" alt="스크린샷 2021-09-07 오전 11 12 22" src="https://user-images.githubusercontent.com/81910342/132273703-fa5e09c0-ef67-41d2-be1c-17b43c6f3e38.png">|<img width="325" alt="스크린샷 2021-09-07 오전 11 12 33" src="https://user-images.githubusercontent.com/81910342/132273712-f485fba3-1cb5-4f1a-a04c-5d608ff69705.png">|
-   |관련클래스|.Socket / .ServerSocket|/DatagramSocket / .DatagramPacket / .MultucastSocket
-
-
-   
+>   ||TCP|UDP|
+>   |:--:|:--:|:--:|
+>   |연결방식|연결형 프로토콜 / 연결 후 통신 / 1:1통신방식|비연결형 프로토콜 / 연결 없이 통신 / 1:1,1:N,N:N통신방식|
+>   |특징|<img width="329" alt="스크린샷 2021-09-07 오전 11 12 22" src="https://user-images.githubusercontent.com/81910342/132273703-fa5e09c0-ef67-41d2-be1c-17b43c6f3e38.png">|<img width="325" alt="스크린샷 2021-09-07 오전 11 12 33" src="https://user-images.githubusercontent.com/81910342/132273712-f485fba3-1cb5-4f1a-a04c-5d608ff69705.png">|
+>   |관련클래스|.Socket / .ServerSocket|/.DatagramSocket / .DatagramPacket / .MultucastSocket
+>
+>
+>   
 >
 >  </details>
   
