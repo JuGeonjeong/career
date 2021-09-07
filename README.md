@@ -339,18 +339,17 @@
    <생략>프로토콜/호스트명/포트번호/패스/쿼리파라미터   
    ex)https://www.google.com:443/search?q=hello&hl=ko.  
    
-   <details>
-   <summary>예시</summary>
-   
-   <img width="781" alt="스크린샷 2021-09-07 오후 12 31 30" src="https://user-images.githubusercontent.com/81910342/132280031-edd3fd26-bc9c-4164-89b1-393a462c04cf.png">.  
-   <img width="789" alt="스크린샷 2021-09-07 오후 12 31 44" src="https://user-images.githubusercontent.com/81910342/132280048-b3a04bb1-97e8-4617-8d4f-de69bedd86f5.png">.  
-   <img width="794" alt="스크린샷 2021-09-07 오후 12 31 . 5" src="https://user-images.githubusercontent.com/81910342/132280063-3b5f09b9-c25d-4973-8afe-a30177ce788c.png">.  
-   <img width="810" alt="스크린샷 2021-09-07 오후 12 32 28" src="https://user-images.githubusercontent.com/81910342/132280111-a5681874-443d-4eee-8944-19bd00aad6fb.png">.  
-   <img width="775" alt="스크린샷 2021-09-07 오후 12 32 47" src="https://user-images.githubusercontent.com/81910342/132280145-6c0b3ebd-a675-4418-8040-447535d349de.png">.  
-   <img width="757" alt="스크린샷 2021-09-07 오후 12 33 14" src="https://user-images.githubusercontent.com/81910342/132280179-80933955-437c-48bb-ac87-bb0a05457282.png">.  
-
-   
-   </details>
+>  <details>
+>  <summary>예시</summary>
+>  
+>  <img width="781" alt="스크린샷 2021-09-07 오후 12 31 30" src="https://user-images.githubusercontent.com/81910342/132280031-edd3fd26-bc9c-4164-89b1-393a462c04cf.png">.  
+>  <img width="789" alt="스크린샷 2021-09-07 오후 12 31 44" src="https://user-images.githubusercontent.com/81910342/132280048-b3a04bb1-97e8-4617-8d4f-de69bedd86f5.png">.  
+>  <img width="794" alt="스크린샷 2021-09-07 오후 12 31 . 5" src="https://user-images.githubusercontent.com/81910342/132280063-3b5f09b9-c25d-4973-8afe-a30177ce788c.png">.  
+>  <img width="810" alt="스크린샷 2021-09-07 오후 12 32 28" src="https://user-images.githubusercontent.com/81910342/132280111-a5681874-443d-4eee-8944-19bd00aad6fb.png">.  
+>  <img width="775" alt="스크린샷 2021-09-07 오후 12 32 47" src="https://user-images.githubusercontent.com/81910342/132280145-6c0b3ebd-a675-4418-8040-447535d349de.png">.  
+>  <img width="757" alt="스크린샷 2021-09-07 오후 12 33 14" src="https://user-images.githubusercontent.com/81910342/132280179-80933955-437c-48bb-ac87-bb0a05457282.png">.  
+>  
+>  </details>
       
    프로토콜 : 어떤 방식으로 자원에 접근할 것인가 하는 약속 규칙(http, https, ftp 등등..)   
    패스 : 리소스경로(path), 계층적 구조   
@@ -511,28 +510,38 @@
    * HTML Form 데이터 전송   
    POST 전송 - 저장   
    
-   <details>
-   
-   <img width="836" alt="스크린샷 2021-09-07 오후 3 03 31" src="https://user-images.githubusercontent.com/81910342/132292328-95b96fee-431d-41da-bdce-6c236eba5fc1.png">    
-   바디에 경로   
-      
-   GET 전송 - 저장   
-   <img width="818" alt="스크린샷 2021-09-07 오후 3 06 17" src="https://user-images.githubusercontent.com/81910342/132292603-d7150d7e-787b-4a12-9303-063c144ff2cb.png">    
-   URI에 경로   
-      
-   mulitpart/form-data    
-   <img width="853" alt="스크린샷 2021-09-07 오후 3 11 25" src="https://user-images.githubusercontent.com/81910342/132293128-ba9996db-e124-47ee-9687-09d5ff1e79a2.png">   
-      
-   메세지를 자동으로 만들고 바운더리대로 짤라주고   
-   <img width="556" alt="스크린샷 2021-09-07 오후 3 15 37" src="https://user-images.githubusercontent.com/81910342/132293640-9424b2e3-0641-40fa-bb56-4536bf4f6ef1.png">   
+>   <details>
+>   
+>   <img width="836" alt="스크린샷 2021-09-07 오후 3 03 31" src="https://user-images.githubusercontent.com/81910342/132292328-95b96fee-431d-41da-bdce-6c236eba5fc1.png">    
+>   바디에 경로   
+>      
+>   GET 전송 - 저장   
+>   <img width="818" alt="스크린샷 2021-09-07 오후 3 06 17" src="https://user-images.githubusercontent.com/81910342/132292603-d7150d7e-787b-4a12-9303-063c144ff2cb.png">    
+>   URI에 경로   
+>      
+>   mulitpart/form-data    
+>   <img width="853" alt="스크린샷 2021-09-07 오후 3 11 25" src="https://user-images.githubusercontent.com/81910342/132293128-ba9996db-e124-47ee-9687-09d5ff1e79a2.png">   
+>      
+>   메세지를 자동으로 만들고 바운더리대로 짤라주고   
+>   <img width="556" alt="스크린샷 2021-09-07 오후 3 15 37" src="https://user-images.githubusercontent.com/81910342/132293640-9424b2e3-0641-40fa-bb56-4536bf4f6ef1.png">   
+>
+>   * HTTP API 데이터 전송   
+>   HTML form 형식을 안쓰는 거의 모든 상황, 서버 to 서버, 앱클라이언트나 웹클라이언트(Ajax) 통신
+>   <img width="488" alt="스크린샷 2021-09-07 오후 3 27 03" src="https://user-images.githubusercontent.com/81910342/132295016-ec1a4676-6c1e-40bd-9c98-50f559f9e4ff.png">   
+>   </details>
 
-   * HTTP API 데이터 전송   
-   HTML form 형식을 안쓰는 거의 모든 상황, 서버 to 서버, 앱클라이언트나 웹클라이언트(Ajax) 통신
-   <img width="488" alt="스크린샷 2021-09-07 오후 3 27 03" src="https://user-images.githubusercontent.com/81910342/132295016-ec1a4676-6c1e-40bd-9c98-50f559f9e4ff.png">   
-   </details>
-
+   ## HTTP 메서드 설계
+   * POST 기반 : 컬렉션   
+   ex)회원관리 API제공   
       
+   <img width="395" alt="스크린샷 2021-09-07 오후 9 02 57" src="https://user-images.githubusercontent.com/81910342/132341348-62a8b178-2604-4001-9dbb-df1b449dbe21.png">
+ 
+   * PUT 기반 : 스토어   
+   ex)정적 컨텐츠 관리, 원격 파일 관리   
+   * HTML FORM 사용   
+   웹 페이지 회원관리, GET/POST만 지원
+       
 
-   
+   정리는 내일 동영상 로딩이안됨...ㄴㅇㅅ
 
 </details>
