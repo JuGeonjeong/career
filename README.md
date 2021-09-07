@@ -338,6 +338,19 @@
    scheme:[//[user[:password@]host[:port]][/path][?query][#fragment]   
    <생략>프로토콜/호스트명/포트번호/패스/쿼리파라미터   
    ex)https://www.google.com:443/search?q=hello&hl=ko.  
+   
+   <details>
+   <summary>예시</summary>
+   
+   <img width="781" alt="스크린샷 2021-09-07 오후 12 31 30" src="https://user-images.githubusercontent.com/81910342/132280031-edd3fd26-bc9c-4164-89b1-393a462c04cf.png">.  
+   <img width="789" alt="스크린샷 2021-09-07 오후 12 31 44" src="https://user-images.githubusercontent.com/81910342/132280048-b3a04bb1-97e8-4617-8d4f-de69bedd86f5.png">.  
+   <img width="794" alt="스크린샷 2021-09-07 오후 12 31 . 5" src="https://user-images.githubusercontent.com/81910342/132280063-3b5f09b9-c25d-4973-8afe-a30177ce788c.png">.  
+   <img width="810" alt="스크린샷 2021-09-07 오후 12 32 28" src="https://user-images.githubusercontent.com/81910342/132280111-a5681874-443d-4eee-8944-19bd00aad6fb.png">.  
+   <img width="775" alt="스크린샷 2021-09-07 오후 12 32 47" src="https://user-images.githubusercontent.com/81910342/132280145-6c0b3ebd-a675-4418-8040-447535d349de.png">.  
+   <img width="757" alt="스크린샷 2021-09-07 오후 12 33 14" src="https://user-images.githubusercontent.com/81910342/132280179-80933955-437c-48bb-ac87-bb0a05457282.png">.  
+
+   
+   </details>
       
    프로토콜 : 어떤 방식으로 자원에 접근할 것인가 하는 약속 규칙(http, https, ftp 등등..)   
    패스 : 리소스경로(path), 계층적 구조   
