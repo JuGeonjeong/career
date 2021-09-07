@@ -405,5 +405,29 @@
    HTTP 지속연결(Persistent Connerctions)로 문제해결 <- HTTP/2 , HTTP/3 버전으로 더 많은 최적화 됨.   
    ex) 수천명이 접속중이어도 설제 동시에 처리하는 요청은 몇십개 밖에 안됨.
    
+   ---
+   ## HTTP 메세지
+   [구조]   
+   <img width="578" alt="스크린샷 2021-09-07 오후 12 03 21" src="https://user-images.githubusercontent.com/81910342/132277774-d86b7beb-4401-464b-b3bf-297778491571.png">
+      
+   [시작라인]   
+   - 요청메세지 -   
+   HTTP메서드, 요청대상, HTTP version.  
+   GET/POST/PUT/DELETE, 경로, HTTP1.1/2/3   
+      
+   - 응답메세지 -   
+   HTTP version, 상태코드, 이유문구   
+      
+   [헤더]   
+   HTTP 전송에 필요한 모든 부가정보   
+      
+   [메세지]   
+   실제 전송할 데이터   
+   HTML 문서, 이미지, 영상, JSON 등등 byte로 표현 할 수 있는 모든 데이터 전송 가능   
+      
+   !!!HTTP는 단순, 스펙도 읽어보자!!!   
+   메세지도 매우 단순, 단순하지만 확장가능 한 기술(크게 성공하는 기술들의 공통점)
+
+   
 
 </details>
