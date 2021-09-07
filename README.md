@@ -510,19 +510,24 @@
       
    * HTML Form 데이터 전송   
    POST 전송 - 저장   
-   <img width="836" alt="스크린샷 2021-09-07 오후 3 03 31" src="https://user-images.githubusercontent.com/81910342/132292328-95b96fee-431d-41da-bdce-6c236eba5fc1.png">   
+   <img width="836" alt="스크린샷 2021-09-07 오후 3 03 31" src="https://user-images.githubusercontent.com/81910342/132292328-95b96fee-431d-41da-bdce-6c236eba5fc1.png">    
    바디에 경로   
       
    GET 전송 - 저장   
-   <img width="818" alt="스크린샷 2021-09-07 오후 3 06 17" src="https://user-images.githubusercontent.com/81910342/132292603-d7150d7e-787b-4a12-9303-063c144ff2cb.png">   
+   <img width="818" alt="스크린샷 2021-09-07 오후 3 06 17" src="https://user-images.githubusercontent.com/81910342/132292603-d7150d7e-787b-4a12-9303-063c144ff2cb.png">    
    URI에 경로   
+      
    mulitpart/form-data    
    <img width="853" alt="스크린샷 2021-09-07 오후 3 11 25" src="https://user-images.githubusercontent.com/81910342/132293128-ba9996db-e124-47ee-9687-09d5ff1e79a2.png">   
+      
    메세지를 자동으로 만들고 바운더리대로 짤라주고   
    <img width="556" alt="스크린샷 2021-09-07 오후 3 15 37" src="https://user-images.githubusercontent.com/81910342/132293640-9424b2e3-0641-40fa-bb56-4536bf4f6ef1.png">   
 
    * HTTP API 데이터 전송   
+   HTML form 형식을 안쓰는 거의 모든 상황, 서버 to 서버, 앱클라이언트나 웹클라이언트(Ajax) 통신
+   <img width="488" alt="스크린샷 2021-09-07 오후 3 27 03" src="https://user-images.githubusercontent.com/81910342/132295016-ec1a4676-6c1e-40bd-9c98-50f559f9e4ff.png">   
    
+
       
 
    
