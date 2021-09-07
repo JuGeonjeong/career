@@ -335,7 +335,7 @@
    * URN 이름만으로 실제 리소스를 찾을 수 있는 방법이 보편화 되지 않음.(과거에 추진하다 잘 안됨)   
       
    [문법]   
-   schema:[//[user[:password@]host[:port]][/path][?query][#fragment]   
+   scheme:[//[user[:password@]host[:port]][/path][?query][#fragment]   
    <생략>프로토콜/호스트명/포트번호/패스/쿼리파라미터   
    ex)https://www.google.com:443/search?q=hello&hl=ko.  
       
