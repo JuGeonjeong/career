@@ -534,9 +534,9 @@
    ## HTTP 메서드 설계
    
       
-   |POST|PUT|
-   |:--:|:--:|
-   |<img width="543" alt="스크린샷 2021-09-08 오전 10 31 51" src="https://user-images.githubusercontent.com/81910342/132431410-e084d3df-4426-46e5-9f96-c3dd00df700e.png">|<img width="599" alt="스크린샷 2021-09-08 오전 10 30 53" src="https://user-images.githubusercontent.com/81910342/132431321-68f14305-1278-437a-baf0-c43652861f7c.png">|
+   |POST|PUT|HTML FORM|
+   |:--:|:--:|:--:|
+   |<img width="543" alt="스크린샷 2021-09-08 오전 10 31 51" src="https://user-images.githubusercontent.com/81910342/132431410-e084d3df-4426-46e5-9f96-c3dd00df700e.png">|<img width="599" alt="스크린샷 2021-09-08 오전 10 30 53" src="https://user-images.githubusercontent.com/81910342/132431321-68f14305-1278-437a-baf0-c43652861f7c.png">|<img width="708" alt="스크린샷 2021-09-08 오전 11 24 53" src="https://user-images.githubusercontent.com/81910342/132436231-4feab1b5-e35a-4131-8cc7-ded739b88059.png">|
    
    ### 대표 2가지 방법 대부분 POST사용
    1. POST 기반 : 컬렉션   
@@ -548,7 +548,7 @@
    * HTML FORM 사용   
    웹 페이지 회원관리, GET/POST만 지원   
        
-   <img width="708" alt="스크린샷 2021-09-08 오전 11 24 53" src="https://user-images.githubusercontent.com/81910342/132436231-4feab1b5-e35a-4131-8cc7-ded739b88059.png">
+   
    
    <img width="415" alt="스크린샷 2021-09-08 오전 10 58 23" src="https://user-images.githubusercontent.com/81910342/132433911-c3046426-35f0-4585-acbb-37e756e15ef3.png">
        
