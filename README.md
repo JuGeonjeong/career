@@ -616,16 +616,16 @@
   본문의 해석 정보가 모두 들어감.   
      
   표현헤더  
-  Content-Type : 표현 데이터 형식 / 단순 전송.  
+  #### Content-Type : 표현 데이터 형식 / 단순 전송.  
   * 미디어 타입, 문자 인코딩 = html or JSON or image/png or ...   
      
-  Content-Encoding : 표현 데이터의 압축 방식 / 압축 전송   
+  #### Content-Encoding : 표현 데이터의 압축 방식 / 압축 전송   
   * 바디내용을 압축, 데이터를 읽는 쪽에서 인코딩 헤더의 정보로 압축 해제 ex)gzip, deflate, identity        
      
-  Content-Language : 표현 데이터의 자연 언어 / 분할 전송   
+  #### Content-Language : 표현 데이터의 자연 언어 / 분할 전송   
   *    
      
-  Content-Length : 표현 데이터의 길이 / 범위 전송    
+  #### Content-Length : 표현 데이터의 길이 / 범위 전송    
   * byte단위    
      
   
