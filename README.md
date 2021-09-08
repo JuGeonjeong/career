@@ -538,10 +538,10 @@
    |<img width="543" alt="스크린샷 2021-09-08 오전 10 31 51" src="https://user-images.githubusercontent.com/81910342/132431410-e084d3df-4426-46e5-9f96-c3dd00df700e.png">|<img width="599" alt="스크린샷 2021-09-08 오전 10 30 53" src="https://user-images.githubusercontent.com/81910342/132431321-68f14305-1278-437a-baf0-c43652861f7c.png">|
    
    ### 대표 2가지 방법 대부분 POST사용
-   * POST 기반 : 컬렉션   
+   1. POST 기반 : 컬렉션   
    ex)회원관리 API제공    
       
-   * PUT 기반 : 스토어   
+   2. PUT 기반 : 스토어   
    ex)정적 컨텐츠 관리, 원격 파일 관리   
        
    * HTML FORM 사용   
