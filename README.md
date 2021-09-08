@@ -651,6 +651,7 @@
      
   #### 협상과 우선순위 3
   <img width="624" alt="스크린샷 2021-09-08 오후 2 13 51" src="https://user-images.githubusercontent.com/81910342/132450258-d5dbcb13-bceb-44b5-80bf-cf1f1f601738.png">   
+     
   * 구체적인 것을 기준으로 미디어 타입을 맞춘다.   
   
 
