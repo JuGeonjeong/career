@@ -1,9 +1,8 @@
-![Uploading 스크린샷 2021-09-08 오전 11.24.22.png…]()
 # career 9/1~
 
 <details>
   <summary>0901 HTML강의</summary>
-
+## 1주차
 ### HTML
   #### 1강
   
@@ -225,7 +224,7 @@
 
 </details>
 
-
+## 2주차
 <details>
                                 <summary>0906~0908 HTTP 강의</summary> 
 
