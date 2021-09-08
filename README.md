@@ -534,7 +534,10 @@
    * POST 기반 : 컬렉션   
    ex)회원관리 API제공   
       
-   <img width="395" alt="스크린샷 2021-09-07 오후 9 02 57" src="https://user-images.githubusercontent.com/81910342/132341348-62a8b178-2604-4001-9dbb-df1b449dbe21.png">
+   |POST|PUT|
+   |:--:|:--:|
+   |<img width="395" alt="스크린샷 2021-09-07 오후 9 02 57" src="https://user-images.githubusercontent.com/81910342/132341348-62a8b178-2604-4001-9dbb-df1b449dbe21.png">|<img width="599" alt="스크린샷 2021-09-08 오전 10 30 53" src="https://user-images.githubusercontent.com/81910342/132431321-68f14305-1278-437a-baf0-c43652861f7c.png">|
+
  
    * PUT 기반 : 스토어   
    ex)정적 컨텐츠 관리, 원격 파일 관리   
