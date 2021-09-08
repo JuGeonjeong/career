@@ -544,9 +544,10 @@
    ex)정적 컨텐츠 관리, 원격 파일 관리   
        
    * HTML FORM 사용   
-   웹 페이지 회원관리, GET/POST만 지원
+   웹 페이지 회원관리, GET/POST만 지원   
        
-
+   <img width="415" alt="스크린샷 2021-09-08 오전 10 58 23" src="https://user-images.githubusercontent.com/81910342/132433911-c3046426-35f0-4585-acbb-37e756e15ef3.png">
+       
    정리는 내일 동영상 로딩이안됨...ㄴㅇㅅ.  
    
    # 0908   
