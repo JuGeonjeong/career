@@ -615,7 +615,7 @@
   ## HTTP 헤더
   본문의 해석 정보가 모두 들어감.   
      
-  표현헤더  
+  ### 표현헤더  
   #### Content-Type : 표현 데이터 형식 / 단순 전송.  
   * 미디어 타입, 문자 인코딩 = html or JSON or image/png or ...   
      
@@ -630,7 +630,23 @@
      
   
      
-  ### 일반적 헤더
+  ### 협상 헤더(Content Negotiation)
+  클라이언크가 선호하는 표현 요청 = 협상헤더는 요청시에만 사용
+     
+  #### Accept : 클라이언트가 선호하는 미디어 타입 전달   
+  #### Accept-Charset : 클라이언트가 선호하는 문자 인코딩   
+  #### Accept-Encoding : 클라이언트가 선호하는 압축 인코딩   
+  #### Accept-Language : 클라이언트가 선호하는 자연 언어   
+     
+  #### 협상과 우선순위 1
+  <img width="525" alt="스크린샷 2021-09-08 오후 2 03 20" src="https://user-images.githubusercontent.com/81910342/132449411-50718c21-c114-4041-92ff-96e7d67a3bb5.png">
+  * Quality Value(q) 값 사용   
+  * 0 ~ 1, 클수록 높은 우선순위    
+  * 생략하면 1   
+     
+  #### 협상과 우선순위 2   
+  ![Uploading 스크린샷 2021-09-08 오후 2.07.03.png…]()
+
   
   
 </details>
