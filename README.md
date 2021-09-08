@@ -531,6 +531,8 @@
 >   <img width="488" alt="스크린샷 2021-09-07 오후 3 27 03" src="https://user-images.githubusercontent.com/81910342/132295016-ec1a4676-6c1e-40bd-9c98-50f559f9e4ff.png">   
 >   </details>
 
+   ---
+
    ## HTTP 메서드 설계
    
       
@@ -547,10 +549,9 @@
        
    * HTML FORM 사용   
    웹 페이지 회원관리, GET/POST만 지원   
-       
+      
+   <img width="379" alt="스크린샷 2021-09-08 오전 11 36 05" src="https://user-images.githubusercontent.com/81910342/132437316-4f25692c-e244-413a-97e5-da8907e1d4f4.png">
    
-   
-   <img width="415" alt="스크린샷 2021-09-08 오전 10 58 23" src="https://user-images.githubusercontent.com/81910342/132433911-c3046426-35f0-4585-acbb-37e756e15ef3.png">
        
    정리는 내일 동영상 로딩이안됨...ㄴㅇㅅ   
       
