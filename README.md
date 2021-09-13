@@ -746,6 +746,7 @@
   <summary>0913 react</summary>
   
   [리액트의 ]
-  https://www.youtube.com/watch?v=BYbgopx44vo
+  https://www.youtube.com/watch?v=BYbgopx44vo   
+  https://jeonghwan-kim.github.io/series/2021/04/05/lecture-react-ready.html
   
   </details>
