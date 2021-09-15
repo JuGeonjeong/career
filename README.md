@@ -751,14 +751,17 @@
   
   </details>
   
-    <summary>0914 react</summary>
+  <details>
+  <summary>0914 react</summary>
   
-  [리액트]   
+  [리액트]
   
+  https://github.com/JuGeonjeong/covid-19
   
   </details>
   
-    <summary>0915 react</summary>
+  <details>
+  <summary>0915 react</summary>
   
   [Next JS]   
   
