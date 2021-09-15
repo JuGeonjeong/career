@@ -750,3 +750,17 @@
   https://jeonghwan-kim.github.io/series/2021/04/05/lecture-react-ready.html
   
   </details>
+  
+    <summary>0914 react</summary>
+  
+  [리액트]   
+  
+  
+  </details>
+  
+    <summary>0915 react</summary>
+  
+  [Next JS]   
+  
+  
+  </details>
