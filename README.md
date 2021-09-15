@@ -743,7 +743,7 @@
   
   ## 3주차
   <details>
-  <summary>0913 React JS</summary>
+  <summary>0913 Node JS, React JS</summary>
   
   [리액트]   
   https://www.youtube.com/watch?v=BYbgopx44vo   
@@ -752,7 +752,7 @@
   </details>
   
   <details>
-  <summary>0914 React JS</summary>
+  <summary>0914 Node JS, React JS</summary>
   
   [리액트]
   
