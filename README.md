@@ -761,7 +761,7 @@
   </details>
   
   <details>
-  <summary>0915 Next JS</summary>
+  <summary>0915 Next JS START!</summary>
   
   [Next JS]   
   
