@@ -745,7 +745,7 @@
   <details>
   <summary>0913 Node JS, React JS</summary>
   
-  [리액트]   
+  [React JS]   
   https://www.youtube.com/watch?v=BYbgopx44vo   
   https://jeonghwan-kim.github.io/series/2021/04/05/lecture-react-ready.html
   
@@ -754,7 +754,7 @@
   <details>
   <summary>0914 Node JS, React JS</summary>
   
-  [리액트]
+  [React JS]
   
   https://github.com/JuGeonjeong/covid-19
   
