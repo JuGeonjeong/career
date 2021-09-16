@@ -768,3 +768,12 @@
   https://github.com/JuGeonjeong/Next.js
   
   </details>
+  
+  <details>
+  <summary>0916 Next JS</summary>
+  
+  [Next JS]   
+  
+  https://github.com/JuGeonjeong/Next.js
+  
+  </details>
