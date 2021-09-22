@@ -793,6 +793,11 @@
   #### 코딩애플 React기초 1강~
   ### 메모
         1. npx create-react-app 프로젝트명
-        2.
+        2. npm start 미리보기
+        3. JSX 사용
+          * import 사진 = src={}, style = {{  }}
+          * { 변수명, 함수, 등... }
+          * useState 동적데이터 변경 
+          , useMemo, useSelector, useCallback, 등...
   
   </details>
