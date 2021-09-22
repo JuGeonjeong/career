@@ -789,7 +789,10 @@
   <summary>0922 Next JS</summary>
   
   [React JS]
-  1. npx create-react-app 프로젝트명
-  2. npm start
+  # 0922
+  #### 코딩애플 React기초 1강~
+  ### 메모
+        1. npx create-react-app 프로젝트명
+        2.
   
   </details>
