@@ -783,6 +783,13 @@
   
   [Next JS]   
   
+  <details>
+  <summary>0922 Next JS</summary>
+  
+  [React JS]
+  1. npx create-react-app 프로젝트명
+  2. npm start
+  
   
   
   </details>
