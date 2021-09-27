@@ -868,6 +868,38 @@ Ex) $ rm –f * => 묻지도 따지지도 않고 다 지우기.
 Ex) $ rm –r directory1 => 폴더 및 안의 파일 다 지우기.
 
 Ex) $ rm –rf directory1 => 묻지도 따지지도 않고 다 지우기 (–f 옵션 + –r 옵션)
+                          
+                          ---
+                          
+$ sudo = sudo vi /etc/php.ini 
+설명) root 권한으로 /etc/ 폴더에 php.ini 파일을 vi로 편집합니다.
+
+$cd => 해당 경로로 이동 합니다. - cd /<경로명>
+
+Ex) $ cd ./ => 현재 폴더를 가르킵니다. 현재 폴더에서 작업을 할 땐 생략 가능합니다.
+
+Ex) $ cd ../ => 현재 폴더에서 한단계 위의 폴더를 가르킵니다.
+
+Ex) $ cd ./soyunho => 디렉토리 이름을 써줘야 해당되는 디렉토리로 들어간다.
+
+
+$ grep = 파일안 내용찾기
+설명) grep head index.php "index.php" 에서 head 가 포함된 낱말을 찾어 냅니다.
+
+$ who 
+설명) 현제 접속 또는 로그인중인 모든 사용자를 찾어줍니다.
+
+$ ps 
+설명) ps(옵션) - 현제 실행중인 모든 프로세서 표시합니다.
+
+$ kill
+설명) kill ichat - ichat 프로세서를 강제 종료 합니다.
+
+$ find
+설명) 조건검색어 - find /경로/ -name host.txt /경로/에서 host.txt 파일을 검색합니다.
+
+$ exit 또는 $ logout 
+설명) 터미널 안전하게 종류한다.
   </details>
   
   </details>
