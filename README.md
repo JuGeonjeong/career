@@ -869,7 +869,7 @@ Ex) $ rm –r directory1 => 폴더 및 안의 파일 다 지우기.
 
 Ex) $ rm –rf directory1 => 묻지도 따지지도 않고 다 지우기 (–f 옵션 + –r 옵션)
                           
-                          ---
+---
                           
 $ sudo = sudo vi /etc/php.ini 
 설명) root 권한으로 /etc/ 폴더에 php.ini 파일을 vi로 편집합니다.
