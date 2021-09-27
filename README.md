@@ -811,6 +811,65 @@
   # 0927
   #### https://github.com/JuGeonjeong/Next.js/blob/master/README.md#0927
   
+  <details>
+  $ ipconfig getifaddr en0
+설명) 내 로컬 ip주소 확인 방법(맥 명령어)
+
+$ du -sh *
+설명) 파일 용량을 확인할수 있는 명령어
+
+$ pwd 
+설명) 현제 어디디렉토리에 있는지 경로를 표시합니다.(pwd는 맥에서만 된다.)
+
+$ ls -la 
+설명) 현제 디렉토리 안에 있는 파일들 목록들을 보여준다.(-la 생략가능)
+
+$ ll 
+설명) 현제 디렉토리 안에 파일들 목록들을 보여준다.
+
+$ cp = 원본복사 
+설명) cp web /bin "web"폴더를 /bin에 복사합니다.
+
+
+$ mv = 원본이동
+설명) mv web /bin "web"폴더를 /bin으로 이동합니다.
+
+Ex) $ mv test11 / ~/desktop
+설명) 'test11' 폴더를 desktop으로 이동합니다.
+
+
+$ mkdir = 폴더 생성
+설명) mkdir web "web" 폴더(Directory)를 현제 경로에 생성합니다.
+
+Ex) $ mkdir thdbsgh younho so 소윤호 test
+설명) 2개이상의 Directory를 연속으로 생성합니다.
+
+$ touch index.html = touch 파일명 
+설명) 파일을 만들어 줍니다.
+
+Ex) $ touch index.html
+
+Ex) $ touch css/style.css
+
+Ex) $ touch js/aap.js
+﻿
+$ rm 
+설명) 원복삭제 - rm web or rm -r web "web"폴더를 삭제 합니다.
+
+$ rmdir 
+설명) 폴더삭제 - rmdir web "web" 폴더를 현제 경로에서 삭제합니다.
+
+Ex) $ rm text.txt 또는 $ rm –f text.txt
+
+Ex) $ rm * => 현재 작업중이 directory의 모든 파일 지우기
+
+Ex) $ rm –f * => 묻지도 따지지도 않고 다 지우기.
+
+Ex) $ rm –r directory1 => 폴더 및 안의 파일 다 지우기.
+
+Ex) $ rm –rf directory1 => 묻지도 따지지도 않고 다 지우기 (–f 옵션 + –r 옵션)
+  </details>
+  
   </details>
   
 
