@@ -801,3 +801,14 @@
           , useMemo, useSelector, useCallback, 등...
   
   </details>
+  
+  <details>
+  <summary>0927 Next JS</summary>
+  
+  [React JS]
+  # 0927
+  #### https://github.com/JuGeonjeong/Next.js/blob/master/README.md#0927
+  
+  </details>
+  
+
