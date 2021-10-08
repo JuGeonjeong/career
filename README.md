@@ -925,6 +925,5 @@ $ exit 또는 $ logout
   
   </details>
   
-  
-  
+## 6주차
 
