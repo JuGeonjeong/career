@@ -930,8 +930,8 @@ $ exit 또는 $ logout
 
 <detail>
 <summary>1005 Nest JS</summary>
-                                   
+
 [Nest JS]
 
-</detial>>                                   
+</detial>
                                    
