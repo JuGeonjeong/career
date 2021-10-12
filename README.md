@@ -926,4 +926,12 @@ $ exit 또는 $ logout
   </details>
   
 ## 6주차
+### 이번주 목표: 프로젝트 api CRUD 하나씩 만들어보기, 직접부딪혀보기!
 
+<detail>
+<summary>1005 Nest JS</summary>
+                                   
+[Nest JS]
+
+                                   
+                                   
