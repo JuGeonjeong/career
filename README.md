@@ -933,5 +933,5 @@ $ exit 또는 $ logout
 
 [Nest JS]
 
-</detial>
+</detail>
                                    
