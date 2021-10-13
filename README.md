@@ -928,10 +928,19 @@ $ exit 또는 $ logout
 ## 6주차
 ### 이번주 목표: 프로젝트 api CRUD 하나씩 만들어보기, 직접부딪혀보기!
 
-<details>
-<summary>1005 Nest JS</summary>
-
-[Nest JS]
-
-</details>
+  <details>
+  <summary>1012 Nest JS</summary>
+  
+  [Nest JS]
+  rds, ec2, aquerytool
+  
+  </details>
+                                     
+  <details>
+  <summary>1013 Nest JS</summary>
+  
+  [Nest JS]
+  
+  
+  </details>
                                    
