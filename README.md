@@ -949,6 +949,10 @@ $ exit 또는 $ logout
   
   [Nest JS]
   DB연결하기
+  Sequelize vs TypeORM
+                                   
+  Sequelize - Sequelize는 Node.js 및 io.js를 위한 약속 기반 ORM입니다. PostgreSQL, MySQL, MariaDB, SQLite 및 MSSQL 방언을 지원하며 견고한 트랜잭션 지원, 관계, 읽기 복제 등을 제공.
+  TypeORM - 현재 존재하는 다른 모든 JavaScript ORM과 달리 Active Record 및 Data Mapper 패턴을 모두 지원합니다. 즉, 고품질의 느슨하게 결합되고 확장 가능하고 유지 관리 가능한 애플리케이션을 가장 생산적인 방식으로 작성할 수 있음.
   
   </details>
                                    
