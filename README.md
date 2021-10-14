@@ -944,3 +944,11 @@ $ exit 또는 $ logout
   
   </details>
                                    
+    <details>
+  <summary>1014 Nest JS</summary>
+  
+  [Nest JS]
+  DB연결하기
+  
+  </details>
+                                   
