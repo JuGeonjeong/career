@@ -953,6 +953,13 @@ $ exit 또는 $ logout
                                    
   Sequelize - Sequelize는 Node.js 및 io.js를 위한 약속 기반 ORM입니다. PostgreSQL, MySQL, MariaDB, SQLite 및 MSSQL 방언을 지원하며 견고한 트랜잭션 지원, 관계, 읽기 복제 등을 제공.
   TypeORM - 현재 존재하는 다른 모든 JavaScript ORM과 달리 Active Record 및 Data Mapper 패턴을 모두 지원합니다. 즉, 고품질의 느슨하게 결합되고 확장 가능하고 유지 관리 가능한 애플리케이션을 가장 생산적인 방식으로 작성할 수 있음.
+                                   
+  종일 에러해결하느라 정신없는 하루
+  1. mysql.server start 안됨 - 권한 따라가서 mysql, mysql@5.7 삭제를 했지만 mysql@5.7은 불멸의 상태였다. brew list에 있지만 혹시나 하는 맘에 mysql@5.7을 brew install mysql@5.7 후 brew uninstall mysql@5.7을 했더니 삭제됬다!!!
+  2. 하지만 똑같이 mysql.server start는 안됬다. 권한 바꿔보고 파일도 만들어보고 설치삭제하면서 지워지지 않은 파일 충돌고려해서 전부 삭제도 해보고 했다. 또 안됬다.
+  3. mysql community를 다시 깔아볼까 했다. 문득 예전 강의 듣다가 같은 오류로 고생한게 생각이 났다. 8.0.26버전은 MAC에서 지원이 안되서 8.0.22버전으로 설치했더니 서버가 실행됬던 기억이 있었다. 역시 됬다~!ㅎㅎ
+  4. error 1045 (28000)오류: mysql -u root -p 비밀번호를 입력 후 mysql에 접속했다.
+  이거 말고 정말 많고 작은 에러들이 많았다. 하루종일 에러를 해결하는데 보냈고 해결되서 매우기뻤지만 좀 찝찝했다. 하지만 미숙했던 터미널 사용에 전보다 많이 익숙해졌다. 오늘도 많이 성장했다~ 꾸준히 하자~
   
   </details>
                                    
