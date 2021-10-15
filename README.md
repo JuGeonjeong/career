@@ -963,3 +963,10 @@ $ exit 또는 $ logout
   
   </details>
                                    
+  <details>
+  <summary>1015 Nest JS</summary>
+  
+  [Nest JS]
+  DB연결하기 에러잡기 연결하고 DB구축
+                                   
+  </details>
