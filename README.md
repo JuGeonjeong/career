@@ -968,5 +968,6 @@ $ exit 또는 $ logout
   
   [Nest JS]
   DB연결하기 에러잡기 연결하고 DB구축
+  DB연결하기 에러잡기 연결하고 DB구축
                                    
   </details>
