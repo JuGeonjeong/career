@@ -970,3 +970,14 @@ $ exit 또는 $ logout
   DB연결하기 에러잡기 연결하고 DB구축
                                    
   </details>
+                                   
+## 7주차
+### 이번주 목표: 수요일 오전까지 프로젝트 완성
+
+  <details>
+  <summary>1018 Nest JS</summary>
+  
+  [Nest JS]
+  바울로그라피 테이블생성, 로직짜기 시작
+
+  </details>
