@@ -986,6 +986,7 @@ $ exit 또는 $ logout
   <summary>1019 Nest JS</summary>
   
   [Nest JS]
-  설문조사 로직짜기 시작
+  설문조사 로직짜기 시작, swagger, JWT                                 
+  설문조사 후 토큰생성 완료, 
 
   </details>                                   
