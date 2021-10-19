@@ -981,3 +981,11 @@ $ exit 또는 $ logout
   바울로그라피 테이블생성, 로직짜기 시작
 
   </details>
+                                   
+  <details>
+  <summary>1019 Nest JS</summary>
+  
+  [Nest JS]
+  설문조사 로직짜기 시작
+
+  </details>                                   
