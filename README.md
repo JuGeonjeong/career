@@ -992,7 +992,7 @@ $ exit 또는 $ logout
   </details>            
                                    
   <details>
-  <summary>1020~1021 Nest JS</summary>
+  <summary>1020~1021 React</summary>
   
   [Nest JS]
   관리자 웹 결과점수까지 만들기
