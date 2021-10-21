@@ -989,4 +989,12 @@ $ exit 또는 $ logout
   설문조사 로직짜기 시작, swagger, JWT                                 
   설문조사 후 토큰생성 완료, 
 
-  </details>                                   
+  </details>            
+                                   
+  <details>
+  <summary>1020~1021 Nest JS</summary>
+  
+  [Nest JS]
+  관리자 웹 결과점수까지 만들기
+                                   
+  </details>
