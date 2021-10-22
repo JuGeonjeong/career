@@ -1030,5 +1030,10 @@ $ exit 또는 $ logout
   [NextJS]
   1. format('YYYY.MM.DD') 값 변환
   2. === null? 'X':'O'; = true,false
+                          
+  [Terminal]
+  1. ls 현위치파일보기 / cd 파일명 : 해당파일로 현위치변경 / rm -r 파일명 : 해당리포지토리 삭제 / mkdir 파일명 : 파일생성
+  2. mysql -u root -p : mysql 접속(-p : 비번)
+  3. mysql 이랑 mariadb랑 접속상태 중복되면 안됨 : 컴퓨터내 mysql다 찾아내서 삭제 완료 후 mariadb다운시 연결됨
                                    
   </details>
