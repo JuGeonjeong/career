@@ -1001,12 +1001,18 @@ $ exit 또는 $ logout
   3. git remote add origin 주소
   4. git remote -v 주소 연결됬는지 확인
   5. npm i
+                                   
+  ---                                   
   
   1. git add .
   2. git commit -m "커밋메세지"
   3. git push(main) / git push origin master
+                          
+  ---                           
    
   1. git pull / git pull origin master
+                          
+  ---                           
   
   1. git branch complete 해결
                                    
