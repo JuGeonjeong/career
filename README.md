@@ -962,13 +962,13 @@ $ exit 또는 $ logout
   이거 말고 정말 많고 작은 에러들이 많았다. 하루종일 에러를 해결하는데 보냈고 해결되서 매우기뻤지만 좀 찝찝했다. 하지만 미숙했던 터미널 사용에 전보다 많이 익숙해졌다. 오늘도 많이 성장했다~ 꾸준히 하자~
   
   </details>
-                                   
+
   <details>
   <summary>1015 Nest JS</summary>
   
   [Nest JS]
   DB연결하기 에러잡기 연결하고 DB구축
-                                   
+
   </details>
                                    
 ## 7주차
@@ -994,7 +994,22 @@ $ exit 또는 $ logout
   <details>
   <summary>1020~1021 React</summary>
   
-  [Nest JS]
+  [React]
   관리자 웹 결과점수까지 만들기
+                                   
+  </details>
+                                   
+  <details>
+  <summary>1022 React</summary>
+  
+  [React]
+  api나온부분 완료
+  1. .mapdmsd list나 table에서 쓰고 상세페이지는 데이터를 set만해서 객체내용을 하나씩 사용
+  2. O,X 표현 {data.isChanged} = 값 안나옴
+     API값 Boolean, {data?isChanges?'O':'X'} = true,false에 따라 값 나옴
+                                   
+  [NextJS]
+  1. format('YYYY.MM.DD') 값 변환
+  2. === null? 'X':'O'; = true,false
                                    
   </details>
