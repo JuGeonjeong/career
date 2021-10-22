@@ -1000,7 +1000,7 @@ $ exit 또는 $ logout
   </details>
                                    
   <details>
-  <summary>1022 React</summary>
+  <summary>1022 React, NextJS</summary>
   
   [React]
   api나온부분 완료
