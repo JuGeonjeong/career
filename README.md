@@ -972,7 +972,7 @@ $ exit 또는 $ logout
   </details>
                                    
 ## 7주차
-### 이번주 목표: 수요일 오전까지 프로젝트 완성
+### 이번주 목표: 수요일 오전까지 api, 금요일 기록점수관리까지 api, 관리자페이지 완성
 
   <details>
   <summary>1018 Nest JS</summary>
