@@ -1046,6 +1046,9 @@ $ exit 또는 $ logout
   ### 이번주 목표: 프로젝트마무리
 
   <details>
-  <summary>1022 React, NextJS</summary>
+  <summary>1024 React, NextJS</summary>
+                          
+  [웹 관리자 페이지]
+  1. 
                           
   </details>
