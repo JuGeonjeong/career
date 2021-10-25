@@ -1027,16 +1027,16 @@ $ exit 또는 $ logout
   2. O,X 표현 {data.isChanged} = 값 안나옴
      API값 Boolean, {data?isChanges?'O':'X'} = true,false에 따라 값 나옴
                                    
-  [NextJS]
+  [NextJS]   
   1. format('YYYY.MM.DD') 값 변환
   2. === null? 'X':'O'; = true,false
                           
-  [Terminal]
+  [Terminal]   
   1. ls 현위치파일보기 / cd 파일명 : 해당파일로 현위치변경 / rm -r 파일명 : 해당리포지토리 삭제 / mkdir 파일명 : 파일생성
   2. mysql -u root -p : mysql 접속(-p : 비번)
   3. mysql 이랑 mariadb랑 접속상태 중복되면 안됨 : 컴퓨터내 mysql다 찾아내서 삭제 완료 후 mariadb다운시 연결됨
                           
-  [AmazonAWS]
+  [AmazonAWS]   
   1. 서버에 올리기 - a3에 bucket이름을 지정 고유한 아이디 보통 도메인주소 ex)bowelography.com - 설정 변경
   2. npm run build - react는 build폴더에 정적인 페이지를 생성해줌 - 해당폴더 open . - s3에 build폴더안의 모든파일을 넣어줌
   3. 실행됨 - 자동업로드파일 bucket이름 입력, accessKeyId, secretAccessKey 입력 - npm run build - upload파일 자동실행하면서 build폴더 안 파일들                                    
@@ -1048,7 +1048,10 @@ $ exit 또는 $ logout
   <details>
   <summary>1024 React, NextJS</summary>
                           
-  [웹 관리자 페이지]
-  1. 
+  [웹 관리자 페이지]api 삭제빼고 완료
+  1. 수정
+                          
+  [git].  
+  1. git add . -> git commit -> git pull origin main
                           
   </details>
