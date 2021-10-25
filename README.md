@@ -1047,11 +1047,15 @@ $ exit 또는 $ logout
 
   <details>
   <summary>1024 React, NextJS</summary>
+  실력을 쌓자
                           
   [웹 관리자 페이지]api 삭제빼고 완료
   1. 수정
                           
   [git].  
   1. git add . -> git commit -> git pull origin main
+                          
+  [React]
+  dayjs, Datepicker
                           
   </details>
