@@ -1041,3 +1041,11 @@ $ exit 또는 $ logout
   2. npm run build - react는 build폴더에 정적인 페이지를 생성해줌 - 해당폴더 open . - s3에 build폴더안의 모든파일을 넣어줌
   3. 실행됨 - 자동업로드파일 bucket이름 입력, accessKeyId, secretAccessKey 입력 - npm run build - upload파일 자동실행하면서 build폴더 안 파일들                                    
   </details>
+                          
+  ## 7주차
+  ### 이번주 목표: 프로젝트마무리
+
+  <details>
+  <summary>1022 React, NextJS</summary>
+                          
+  </details>
