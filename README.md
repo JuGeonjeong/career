@@ -1062,5 +1062,15 @@ $ exit 또는 $ logout
                           
   <details>
   <summary>1025 React, NextJS</summary>
+  #### 지금하고 있는 코드 일목요연하게 상대방에게 설명할 수 있을때
+                          
+  [React]
+  1. { __ ? ( true ) : ( false )}
+  2. GET은 생략가능 - method, body 없음(당연함)
+  3. window.history.back(); -> 뒤로가기지만 리스트함수를 호출하기때문에 새로고침(당연함)
+  4. 유저관리 - 통계, 광고배너관리 - 상세/등록, 
+  5. <img width="486" alt="스크린샷 2021-10-26 오후 8 18 57" src="https://user-images.githubusercontent.com/81910342/138867620-6eae1dac-4044-4f5f-a9ac-5457f7ddbff9.png">   
+  input 익히기
+  5. 
                           
   </details>
