@@ -1014,7 +1014,7 @@ $ exit 또는 $ logout
                           
   ---                           
   
-  1. git branch complete 해결
+  1. git branch comflict 해결
                                    
   </details>
                                    
