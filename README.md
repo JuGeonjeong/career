@@ -971,7 +971,7 @@ $ exit 또는 $ logout
 
   </details>
                                    
-## 8주차
+## 7주차
 ### 이번주 목표: 수요일 오전까지 api, 금요일 기록점수관리까지 api, 관리자페이지 완성
 
   <details>
@@ -1042,7 +1042,7 @@ $ exit 또는 $ logout
   3. 실행됨 - 자동업로드파일 bucket이름 입력, accessKeyId, secretAccessKey 입력 - npm run build - upload파일 자동실행하면서 build폴더 안 파일들                                    
   </details>
                           
-  ## 7주차
+  ## 8주차
   ### 이번주 목표: 프로젝트마무리
 
   <details>
