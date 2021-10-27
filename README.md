@@ -1087,5 +1087,10 @@ $ exit 또는 $ logout
   [NestJS]
   1. 코드분석하기
   
+  [Webstorm]
+  데이터베이스 연결하기    
+  database Tool 설치    
+  1. ![스크린샷 2021-10-27 오후 3 03 27](https://user-images.githubusercontent.com/81910342/139008736-3aa7d428-f941-4068-b357-c4d5a01af45c.png)
+
   
   </details>
