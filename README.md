@@ -1100,7 +1100,7 @@ $ exit 또는 $ logout
   Host : 도커에 띄운 로컬 MySQL을 사용하므로, localhost로 설정했습니다.   
   User : 계정 이름 ex.(mysql -u root -p) -> root    
   Password : 비밀번호   
-  Database : 연결하고자하는 DB입니다.   
+  Database : 연결하고자하는 DB   
   URL : 자동완성   
 
   
