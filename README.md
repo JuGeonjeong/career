@@ -1102,6 +1102,6 @@ $ exit 또는 $ logout
   Password : 비밀번호   
   Database : 연결하고자하는 DB   
   URL : 자동완성   
-
+  3. 연결 테스트 후 생성
   
   </details>
