@@ -1073,3 +1073,16 @@ $ exit 또는 $ logout
   한번더보기
                           
   </details>
+
+  <details>
+  <summary>1025 React, NextJS</summary>
+  crud완료, api설계보기
+  
+  [React]
+  버튼 함수로 통일시키기
+  
+  [NestJS]
+  1. 코드분석하기
+  
+  
+  </details>
