@@ -1078,6 +1078,9 @@ $ exit 또는 $ logout
   <summary>1026 React, NextJS</summary>
   crud완료, api설계보기
   
+  [git]   
+  1. git pull origin main --force
+  
   [React]
   버튼 함수로 통일시키기
   
