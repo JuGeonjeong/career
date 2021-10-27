@@ -1043,7 +1043,7 @@ $ exit 또는 $ logout
   </details>
                           
   ## 8주차
-  ### 이번주 목표: 프로젝트마무리
+  ### 이번주 목표: 프로젝트마무리, 하나먼저 깊게 
 
   <details>
   <summary>1024 React, NextJS</summary>
