@@ -1075,7 +1075,7 @@ $ exit 또는 $ logout
   </details>
 
   <details>
-  <summary>1025 React, NextJS</summary>
+  <summary>1026 React, NextJS</summary>
   crud완료, api설계보기
   
   [React]
