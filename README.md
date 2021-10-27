@@ -1095,13 +1095,13 @@ $ exit 또는 $ logout
   2. ![스크린샷 2021-10-27 오후 3 05 11](https://user-images.githubusercontent.com/81910342/139008889-6667cb40-b0f2-4975-8da5-547865a2b85d.png)
   프로젝트 .env 파일 설정 한 database_name, database_password 등등 값 입력
   
-  Name : 설정하고자 하는 이름입니다. 하단의 Database가 @앞에 붙기 때문에, @뒤에만 원하는 이름으로 설정합니다.
-  Comment : 코멘트, 주석입니다.
+  Name : @~~~이름
+  Comment : 주석
   Host : 도커에 띄운 로컬 MySQL을 사용하므로, localhost로 설정했습니다.
-  User : MySQL의 계정 이름을 입력합니다. 보통 root를 많이 쓰며, 개인적으로 만든 계정을 사용해도 됩니다.
-  Password : 비밀번호입니다.
-  Database : 연결하고자하는 DB입니다. 저의 경우에는 mydb입니다.
-  URL : 자동
+  User : 계정 이름 ex.(mysql -u root -p) -> root 
+  Password : 비밀번호
+  Database : 연결하고자하는 DB입니다.
+  URL : 자동완성
 
   
   </details>
