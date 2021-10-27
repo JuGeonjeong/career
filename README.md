@@ -1092,8 +1092,8 @@ $ exit 또는 $ logout
   database Tool 설치    
   1. ![스크린샷 2021-10-27 오후 3 03 27](https://user-images.githubusercontent.com/81910342/139008736-3aa7d428-f941-4068-b357-c4d5a01af45c.png)
   해당 DBMS선택
-  2. ![스크린샷 2021-10-27 오후 3 05 11](https://user-images.githubusercontent.com/81910342/139008889-6667cb40-b0f2-4975-8da5-547865a2b85d.png)
-  프로젝트 .env 파일 설정 한 database_name, database_password 등등 값 입력
+  2. ![스크린샷 2021-10-27 오후 3 05 11](https://user-images.githubusercontent.com/81910342/139008889-6667cb40-b0f2-4975-8da5-547865a2b85d.png)   
+  프로젝트 .env 파일 설정 한 database_name, database_password 등등 값 입력   
   
   Name : @~~~이름   
   Comment : 주석   
