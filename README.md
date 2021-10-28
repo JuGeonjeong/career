@@ -1047,7 +1047,8 @@ $ exit 또는 $ logout
 
   <details>
   <summary>1025 React, NextJS</summary>
-  실력을 쌓자   
+                          
+   - [ ] 실력을 쌓자   
                           
   [웹 관리자 페이지]api 삭제빼고 완료
   1. 수정
@@ -1062,7 +1063,8 @@ $ exit 또는 $ logout
                           
   <details>
   <summary>1026 React, NextJS</summary>
-  지금하고 있는 코드 일목요연하게 상대방에게 설명할 수 있을때
+                          
+   - [ ] 지금하고 있는 코드 일목요연하게 상대방에게 설명할 수 있을때
                           
   [React]
   1. { __ ? ( true ) : ( false )}
@@ -1076,7 +1078,8 @@ $ exit 또는 $ logout
 
   <details>
   <summary>1027 React, NextJS</summary>
-  crud완료, api설계보기
+  
+   - [ ] crud완료, api설계보기
   
   [git]   
   1. git pull origin main --force
