@@ -1112,6 +1112,6 @@ $ exit 또는 $ logout
   <details>
   <summary>1028 React, NextJS</summary>
   
-  - [ ] 공지사항, api설계보기, 
+  - [ ] 공지사항, api설계보기, 두번째 프로젝트 시작(새로운 관리자템플릿 분석 - templete 사용)
   
   </details>
