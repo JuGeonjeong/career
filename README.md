@@ -1104,11 +1104,10 @@ $ exit 또는 $ logout
   URL : 자동완성   
   3. 연결 테스트 후 생성
   
-- [ ] 공지사항, api설계보기
-  
   </details>
   
   <details>
   <summary>1028 React, NextJS</summary>
+  - [ ] 공지사항, api설계보기, 
   
   </details>
