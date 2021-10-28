@@ -1108,6 +1108,7 @@ $ exit 또는 $ logout
   
   <details>
   <summary>1028 React, NextJS</summary>
+  
   - [ ] 공지사항, api설계보기, 
   
   </details>
