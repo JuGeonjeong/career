@@ -1046,7 +1046,7 @@ $ exit 또는 $ logout
   ### 이번주 목표: 프로젝트마무리, 프로젝트 웹관리자페이지/서버API 이해하고 설명하기, React/NestJS 중 하나만 정해서 공부하기 
 
   <details>
-  <summary>1024 React, NextJS</summary>
+  <summary>1025 React, NextJS</summary>
   실력을 쌓자   
                           
   [웹 관리자 페이지]api 삭제빼고 완료
@@ -1061,7 +1061,7 @@ $ exit 또는 $ logout
   </details>
                           
   <details>
-  <summary>1025 React, NextJS</summary>
+  <summary>1026 React, NextJS</summary>
   지금하고 있는 코드 일목요연하게 상대방에게 설명할 수 있을때
                           
   [React]
@@ -1075,7 +1075,7 @@ $ exit 또는 $ logout
   </details>
 
   <details>
-  <summary>1026 React, NextJS</summary>
+  <summary>1027 React, NextJS</summary>
   crud완료, api설계보기
   
   [git]   
@@ -1103,5 +1103,12 @@ $ exit 또는 $ logout
   Database : 연결하고자하는 DB   
   URL : 자동완성   
   3. 연결 테스트 후 생성
+  
+- [ ] 공지사항, api설계보기
+  
+  </details>
+  
+  <details>
+  <summary>1028 React, NextJS</summary>
   
   </details>
