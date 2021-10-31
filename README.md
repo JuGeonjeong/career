@@ -1115,3 +1115,11 @@ $ exit 또는 $ logout
   - [ ] 공지사항, api설계보기, 두번째 프로젝트 시작(새로운 관리자템플릿 분석 - templete 사용)
   
   </details>
+
+  ## 9주차
+  ### 이번주 목표: 두번째 프로젝트 ui만들기, api붙이기, 알고리즘문제풀기, JS공부
+
+  <details>
+  <summary>1101</summary>
+
+  </details>
