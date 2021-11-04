@@ -1019,7 +1019,7 @@ $ exit 또는 $ logout
   </details>
                                    
   <details>
-  <summary>1022 React, NextJS</summary>
+  <summary>1022 React, NestJS</summary>
   
   [React]
   api나온부분 완료
@@ -1027,7 +1027,7 @@ $ exit 또는 $ logout
   2. O,X 표현 {data.isChanged} = 값 안나옴
      API값 Boolean, {data?isChanges?'O':'X'} = true,false에 따라 값 나옴
                                    
-  [NextJS]   
+  [NestJS]   
   1. format('YYYY.MM.DD') 값 변환
   2. === null? 'X':'O'; = true,false
                           
@@ -1046,7 +1046,7 @@ $ exit 또는 $ logout
   ### 이번주 목표: 프로젝트마무리, 프로젝트 웹관리자페이지/서버API 이해하고 설명하기, React/NestJS 중 하나만 정해서 공부하기 
 
   <details>
-  <summary>1025 React, NextJS</summary>
+  <summary>1025 React, NestJS</summary>
                           
    - [ ] 실력을 쌓자   
                           
@@ -1062,7 +1062,7 @@ $ exit 또는 $ logout
   </details>
                           
   <details>
-  <summary>1026 React, NextJS</summary>
+  <summary>1026 React, NestJS</summary>
                           
    - [ ] 지금하고 있는 코드 일목요연하게 상대방에게 설명할 수 있을때
                           
@@ -1077,7 +1077,7 @@ $ exit 또는 $ logout
   </details>
 
   <details>
-  <summary>1027 React, NextJS</summary>
+  <summary>1027 React, NestJS</summary>
   
    - [ ] crud완료, api설계보기
   
@@ -1110,7 +1110,7 @@ $ exit 또는 $ logout
   </details>
   
   <details>
-  <summary>1028 React, NextJS</summary>
+  <summary>1028 React, NestJS</summary>
   
   - [ ] 공지사항, api설계보기, 두번째 프로젝트 시작(새로운 관리자템플릿 분석 - templete 사용)
   
@@ -1135,7 +1135,7 @@ $ exit 또는 $ logout
   </details>
   
   <details>
-  <summary>1104</summary>
+  <summary>1104 React, NestJS</summary>
   
    - [ ] 관리자페이지, api 둘다 시작 정신없다 ㅎㅎ 하나씩 해결해 나가자
   
