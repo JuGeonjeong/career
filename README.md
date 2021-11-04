@@ -1136,5 +1136,7 @@ $ exit 또는 $ logout
   
   <details>
   <summary>1104</summary>
-
+  
+   - [ ] 관리자페이지, api 둘다 시작 정신없다 ㅎㅎ 하나씩 해결해 나가자
+  
   </details>
