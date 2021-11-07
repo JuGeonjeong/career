@@ -1140,3 +1140,13 @@ $ exit 또는 $ logout
    - [ ] 관리자페이지, api 둘다 시작 정신없다 ㅎㅎ 하나씩 해결해 나가자
   
   </details>
+
+
+  ## 9주차
+  ### 이번주 목표: api붙이기, 알고리즘문제풀기, JS공부, db공부하기
+
+  <details>
+  <summary>1107</summary>
+  - [ ] 파일등록, APi 만들기, 통계api만들기
+
+  </details>
