@@ -1142,7 +1142,7 @@ $ exit 또는 $ logout
   </details>
 
 
-  ## 9주차
+  ## 10주차
   ### 이번주 목표: api붙이기, 알고리즘문제풀기, JS공부, db공부하기
 
   <details>
