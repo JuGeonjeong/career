@@ -1160,5 +1160,6 @@ $ exit 또는 $ logout
   <summary>1108</summary>
   
   - [ ] 사진파일 등록하는 api와 관리자페이지에 리스트구현
+  - [ ] S3 웹서버 올리기
   
   </details>
