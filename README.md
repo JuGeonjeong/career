@@ -1163,3 +1163,21 @@ $ exit 또는 $ logout
   - [ ] S3 웹서버 올리기
   
   </details>
+  
+  <details>
+  <summary>1109</summary>
+  
+  - [ ] 사진파일 등록하는 api와 관리자페이지에 리스트구현
+  - [ ] S3 웹서버 올리기
+  
+  </details>
+  
+  <details>
+  <summary>1110</summary>
+  
+  - [ ] 제발 먼저 에러코드를 잘 읽자   <img width="2042" alt="스크린샷 2021-11-10 오후 12 25 03" src="https://user-images.githubusercontent.com/81910342/141105255-9e409b4b-2c25-4ba3-930d-90c3a63bcc09.png">   
+
+  - [ ] html 주문서만들기 - table-layout:fixed; 그리고 td로 width조정.
+  - [ ] react - ?를 생략하면 데이터undefined로 인식해서 오류 제발 빼먹지말자
+  
+  </details>
