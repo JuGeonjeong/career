@@ -1177,7 +1177,9 @@ $ exit 또는 $ logout
   
   - [ ] 제발 먼저 에러코드를 잘 읽자   <img width="2042" alt="스크린샷 2021-11-10 오후 12 25 03" src="https://user-images.githubusercontent.com/81910342/141105255-9e409b4b-2c25-4ba3-930d-90c3a63bcc09.png">   
 
-  - [ ] html 주문서만들기 - table-layout:fixed; 그리고 td로 width조정.
-  - [ ] react - ?를 생략하면 데이터undefined로 인식해서 오류 제발 빼먹지말자
+  - [ ] html 주문서만들기 - table-layout:fixed; 그리고 td로 width조정.   <img width="936" alt="스크린샷 2021-11-10 오후 3 49 42" src="https://user-images.githubusercontent.com/81910342/141105698-02f6a71c-ec23-477a-8080-43d36c9903d7.png">   
+
+  - [ ] react - ?를 생략하면 데이터undefined로 인식해서 오류 제발 빼먹지말자  ![스크린샷 2021-11-10 오후 8 34 50](https://user-images.githubusercontent.com/81910342/141106072-0b5ad3bc-74c0-4bb2-b34b-e53d52b09927.png).  
+  - [ ] nestJS - return new ResponseSuccessDto<any>(데이터 요청 성공시 응답으로 값을 넘겨줘야함 ex)파일등록시 등록Id를 넘겨주고 등록Id와 파일이랑 같이 넘겨줌);
   
   </details>
