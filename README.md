@@ -1177,7 +1177,7 @@ $ exit 또는 $ logout
   
   - [ ] 제발 먼저 에러코드를 잘 읽자   <img width="1853" alt="스크린샷 2021-11-10 오후 8 47 52" src="https://user-images.githubusercontent.com/81910342/141107760-71c492a3-d599-4a4f-a712-2b9c0700d5b6.png">   column을 추가하고 sync 업데이트를 하지 않아서 Unknown column 'secondIll' in 'field list'(테이블목록에 secondIll이라는 컬럼을 모른다) 에러가 뜸
 
-  - [ ] html 주문서만들기 - table-layout:fixed; 그리고 td로 width조정.   ![스크린샷 2021-11-10 오후 2 29 51](https://user-images.githubusercontent.com/81910342/141107930-74895d57-0027-4096-903a-e23fc3fbdd9d.png)   
+  - [ ] html 주문서만들기 - table-layout:fixed; 그리고 td로 width조정    ![스크린샷 2021-11-10 오후 2 29 51](https://user-images.githubusercontent.com/81910342/141107930-74895d57-0027-4096-903a-e23fc3fbdd9d.png)   
    <img width="936" alt="스크린샷 2021-11-10 오후 3 49 42" src="https://user-images.githubusercontent.com/81910342/141105698-02f6a71c-ec23-477a-8080-43d36c9903d7.png">   
 
   - [ ] react - ?를 생략하면 데이터undefined로 인식해서 오류 제발 빼먹지말자  ![스크린샷 2021-11-10 오후 8 34 50](https://user-images.githubusercontent.com/81910342/141106072-0b5ad3bc-74c0-4bb2-b34b-e53d52b09927.png).  
