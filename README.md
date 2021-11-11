@@ -1184,3 +1184,11 @@ $ exit 또는 $ logout
   - [ ] nestJS - return new ResponseSuccessDto<any>(데이터 요청 성공시 응답으로 값을 넘겨줘야함 ex)파일등록시 등록Id를 넘겨주고 등록Id와 파일이랑 같이 넘겨줌);
   
   </details>
+  
+  <details>
+  <summary>1111</summary>
+  
+  - [ ] 통계 로직을 구현해서 프론트에 넘겨줬다.
+  - [ ] 
+  
+  </details>
