@@ -1196,7 +1196,8 @@ $ exit 또는 $ logout
   <details>
   <summary>1112</summary>
   
-  - [ ] sequelize avg    
+  - [ ] nestJS, Sequelize 공식문서 정독하기   
+  - [ ] sequelize avg -> 배열로 들어오기때문에 .length로 처리    
   ![스크린샷 2021-11-12 오후 7 33 52](https://user-images.githubusercontent.com/81910342/141453013-778e1cf7-0d5c-4f6e-9480-573f69f19a71.png).   
   - [ ] include:[{model: },], 조인테이블 기억    
   - [ ] Sequelize.literal(`쿼리문`) 기억     
