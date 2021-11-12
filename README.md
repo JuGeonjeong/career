@@ -1197,7 +1197,8 @@ $ exit 또는 $ logout
   <summary>1112</summary>
   
   - [ ] sequelize avg.   ![스크린샷 2021-11-12 오후 7 33 52](https://user-images.githubusercontent.com/81910342/141453013-778e1cf7-0d5c-4f6e-9480-573f69f19a71.png).   
-  - [ ] include:[{model: },], 조인테이블 기억
-  - [ ] Sequelize.literal(`쿼리문`) 기억   ![스크린샷 2021-11-12 오후 7 40 49](https://user-images.githubusercontent.com/81910342/141453966-85edf7cc-4f1e-4815-a435-ab7038f4a4c2.png)    
+  - [ ] include:[{model: },], 조인테이블 기억    
+  - [ ] Sequelize.literal(`쿼리문`) 기억     
+  ![스크린샷 2021-11-12 오후 7 40 49](https://user-images.githubusercontent.com/81910342/141453966-85edf7cc-4f1e-4815-a435-ab7038f4a4c2.png)    
   
   </details>
