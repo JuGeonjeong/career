@@ -1204,3 +1204,13 @@ $ exit 또는 $ logout
   ![스크린샷 2021-11-12 오후 7 40 49](https://user-images.githubusercontent.com/81910342/141453966-85edf7cc-4f1e-4815-a435-ab7038f4a4c2.png)    
   
   </details>
+  
+  ## 10주차
+  ### 이번주 목표: 새로운 프로젝트 적응하기
+
+  <details>
+  <summary>1117</summary>
+  
+  너무 정신이 없다....새로운프로젝트는 전에 비해 양도 5배 난이도도 5배인것같다...
+
+  </details>
