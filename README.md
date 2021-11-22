@@ -1228,6 +1228,6 @@ $ exit 또는 $ logout
   <details>
   <summary>1122</summary>
   
-    - [ ] nest 공부하기(인프런, 공식문서)
+  - [ ] nest 공부하기(인프런, 공식문서)
 
   </details>
