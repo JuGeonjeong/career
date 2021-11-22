@@ -1221,3 +1221,13 @@ $ exit 또는 $ logout
   기본알기 기본공부하기!!!!!!!!
 
   </details>
+  
+  ## 11주차
+  ### 이번주 목표: 인프런 nest강의 끝내기
+  
+  <details>
+  <summary>1122</summary>
+  
+    - [ ] nest 공부하기(인프런, 공식문서)
+
+  </details>
