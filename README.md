@@ -1231,3 +1231,11 @@ $ exit 또는 $ logout
   - [ ] nest 공부하기(인프런, 공식문서)
 
   </details>
+    
+  <details>
+  <summary>1123</summary>
+  
+  - [ ] nest 공부하기(인프런, 공식문서)
+  - [ ] api, 관리자페이지 등록, 이미지 등록
+
+  </details>
