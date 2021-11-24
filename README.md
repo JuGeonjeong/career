@@ -1239,3 +1239,11 @@ $ exit 또는 $ logout
   - [ ] api, 관리자페이지 등록, 이미지 등록
 
   </details>
+      
+  <details>
+  <summary>1124</summary>
+  
+  - [ ] react 공부하기(인프런, 공식문서)
+  - [ ] 관리자페이지
+
+  </details>
