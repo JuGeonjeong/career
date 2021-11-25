@@ -1247,3 +1247,11 @@ $ exit 또는 $ logout
   - [ ] 관리자페이지
 
   </details>
+      
+  <details>
+  <summary>1124</summary>
+  
+  - [ ] react 공부하기(인프런, 공식문서), react v6 바뀐것들 https://blog.woolta.com/categories/1/posts/211
+  - [ ] 관리자페이지
+
+  </details>
