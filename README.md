@@ -1223,7 +1223,7 @@ $ exit 또는 $ logout
   </details>
   
   ## 11주차
-  ### 이번주 목표: 인프런 nest강의 끝내기
+  ### 이번주 목표: 인프런 nest강의, react강의
   
   <details>
   <summary>1122</summary>
