@@ -1249,7 +1249,7 @@ $ exit 또는 $ logout
   </details>
       
   <details>
-  <summary>1125</summary>
+  <summary>1125 React</summary>
   
   - [ ] react 공부하기(인프런, 공식문서), react v6 바뀐것들 https://blog.woolta.com/categories/1/posts/211
   - [ ] 관리자페이지
