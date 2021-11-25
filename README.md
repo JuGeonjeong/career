@@ -1253,6 +1253,7 @@ $ exit 또는 $ logout
   
   - [ ] react 공부하기(인프런, 공식문서), react v6 바뀐것들 https://blog.woolta.com/categories/1/posts/211
   - [ ] 관리자페이지
+  - [ ] AWS EC2 등록
   산재 랜딩페이지 web, mobile 만듬..... 모바일 -> 모바일페이지 , 웹 -> 웹페이지
 
   </details>
