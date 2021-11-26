@@ -1257,3 +1257,11 @@ $ exit 또는 $ logout
   산재 랜딩페이지 web, mobile 만듬..... 모바일 -> 모바일페이지 , 웹 -> 웹페이지
 
   </details>
+  
+  <details>
+  <summary>1126 React</summary>
+  
+  - [ ] react 페이지 여백없애기 publick <body>에 style="margin: 0;" 넣어서 해결 - 맞는방법인지는 모르겠으나 구글링해도 안나옴...
+  - [ ] 관리자페이지
+
+  </details>
