@@ -1251,7 +1251,8 @@ $ exit 또는 $ logout
   <details>
   <summary>1125 React</summary>
   
-  - [ ] react 공부하기(인프런, 공식문서), react v6 바뀐것들 https://blog.woolta.com/categories/1/posts/211
+  - [ ] react 공부하기(인프런, 공식문서), react v6 바뀐것들 
+  https://blog.woolta.com/categories/1/posts/211
   - [ ] 관리자페이지
   - [ ] AWS EC2 등록
   산재 랜딩페이지 web, mobile 만듬..... 모바일 -> 모바일페이지 , 웹 -> 웹페이지
@@ -1264,4 +1265,14 @@ $ exit 또는 $ logout
   - [ ] react 페이지 여백없애기 publick <body>에 style="margin: 0;" 넣어서 해결 - 맞는방법인지는 모르겠으나 구글링해도 안나옴...
   - [ ] 관리자페이지
 
+  </details>
+
+  ## 12주차
+  ### 이번주 목표: 새로운 프로젝트 적응하기
+
+  <details>
+  <summary>1129</summary>
+  
+  - [ ] api수정
+  
   </details>
