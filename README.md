@@ -1283,3 +1283,27 @@ $ exit 또는 $ logout
   - [ ] api수정
   
   </details>
+                                                          
+  ## 13주차
+  ### 이번주 목표: 웹 페이지 만들기..
+                                                          
+  <details>
+  <summary>1206</summary>
+  
+  - [ ] 관리자 웹페이지
+  
+  </details>
+                                                          
+  <details>
+  <summary>1207</summary>
+  
+  - [ ] 관리자 웹페이지
+  
+  </details>
+                                                          
+  <details>
+  <summary>1209</summary>
+  
+  - [ ] 관리자 웹페이지
+  
+  </details>
