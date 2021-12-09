@@ -1290,20 +1290,20 @@ $ exit 또는 $ logout
   <details>
   <summary>1206</summary>
   
-  - [ ] 관리자 웹페이지
+  - [ ] 
   
   </details>
                                                           
   <details>
   <summary>1207</summary>
   
-  - [ ] 관리자 웹페이지
+  - [ ] 
   
   </details>
                                                           
   <details>
   <summary>1209</summary>
   
-  - [ ] 관리자 웹페이지
+  - [ ] 공부언제하나....일좀 그만 밀리고싶다......
   
   </details>
