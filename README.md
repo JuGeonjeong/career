@@ -1310,3 +1310,24 @@ $ exit 또는 $ logout
                                                           
   ## 14주차
   ### 이번주 목표: 새로운 프로젝트 적응하기, 아침에 알고리즘 한문제씩 
+                                                          
+  <details>
+  <summary>1213</summary>
+  
+  - [ ] 관리자페이지
+  
+  </details>
+                                                          
+  <details>
+  <summary>1214</summary>
+  
+  - [ ] 관리자페이지
+  
+  </details>
+
+    <details>
+  <summary>1215</summary>
+  
+  - [ ] 관리자페이지
+  
+  </details>
