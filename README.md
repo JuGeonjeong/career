@@ -1325,8 +1325,16 @@ $ exit 또는 $ logout
   
   </details>
 
-    <details>
+  <details>
   <summary>1215</summary>
+  
+  - [ ] 관리자페이지
+  
+  </details>
+
+                                                          
+  <details>
+  <summary>1216</summary>
   
   - [ ] 관리자페이지
   
