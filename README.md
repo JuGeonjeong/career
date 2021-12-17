@@ -1336,6 +1336,13 @@ $ exit 또는 $ logout
   <details>
   <summary>1216</summary>
   
+  - [ ] 관리자페이지: 배열의 인덱스값을 변형해서 상태변경을 했다.
+  
+  </details>
+
+  <details>
+  <summary>1217</summary>
+  
   - [ ] 관리자페이지
   
   </details>
