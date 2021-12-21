@@ -1346,3 +1346,22 @@ $ exit 또는 $ logout
   - [ ] 관리자페이지
   
   </details>
+                                                          
+  ## 15주차
+  ### 이번주 목표: 아침에 알고리즘 한문제씩, 
+                                                          
+  <details>
+  <summary>1220</summary>
+  
+  - [ ] 관리자페이지
+  - [ ] 서버 쿼리변경
+  
+  </details>
+                                                          
+  <details>
+  <summary>1221</summary>
+  
+  - [ ] 관리자페이지
+  - [ ] 웹 css 수정
+  
+  </details>
