@@ -1362,6 +1362,7 @@ $ exit 또는 $ logout
   <summary>1221</summary>
   
   - [ ] 관리자페이지
-  - [ ] 웹 css 수정
+  - [ ] 웹 css 수정 - 크롬, 브라우저 호환
   
   </details>
+                                                          
