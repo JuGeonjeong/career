@@ -1366,3 +1366,16 @@ $ exit 또는 $ logout
   
   </details>
                                                           
+  <summary>1222</summary>
+  
+  - [ ] 관리자페이지
+  - [ ] 웹 css 수정 - 크롬, 익스플로러 호환
+  
+  </details>
+                                                          
+  <summary>1223</summary>
+  
+  - [ ] 관리자페이지
+  - [ ] 웹 css 수정 - 크롬, 익스플로러 호환
+  
+  </details>
