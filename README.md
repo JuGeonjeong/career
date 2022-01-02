@@ -1391,7 +1391,7 @@ $ exit 또는 $ logout
                                                           
                                                           
   ## 16주차
-  ### 이번주 목표: 프로젝트 마무리
+  ### 이번주 목표: 2022 
                                                                                                                     
   <details>
   <summary>1221</summary>
