@@ -1366,7 +1366,8 @@ $ exit 또는 $ logout
   - [ ] 웹 css 수정 - 크롬, 익스플로러 호환
   
   </details>
-                                                          
+                  
+  <details>                                                          
   <summary>1222</summary>
   
   - [ ] 관리자페이지
@@ -1379,7 +1380,9 @@ $ exit 또는 $ logout
   - [ ] 관리자페이지
   - [ ] 웹 css 수정 - 크롬, 익스플로러 호환
   
-  </details>                                                          
+  </details>
+                                                          
+  <details>                                                          
   <summary>1223</summary>
   
   - [ ] 관리자페이지
