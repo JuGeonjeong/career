@@ -1369,14 +1369,35 @@ $ exit 또는 $ logout
   <summary>1222</summary>
   
   - [ ] 관리자페이지
-  
+                                                            
   </details>
-                                                          
+     
+  <details>
+  <summary>1221</summary>
+  
+  - [ ] 관리자페이지
+  - [ ] 웹 css 수정 - 크롬, 익스플로러 호환
+  
+  </details>                                                          
   <summary>1223</summary>
   
   - [ ] 관리자페이지
   
   </details>
 
+                                                            
+  ## 15주차
+  ### 이번주 목표: 프로젝트 마무리
+                                                          
+                                                          
+  ## 16주차
+  ### 이번주 목표: 프로젝트 마무리
+                                                                                                                    
+  <details>
+  <summary>1221</summary>
   
+  - [ ] 관리자페이지
+  
+  </details>                                                                                                                   
+                                                          
 
