@@ -959,7 +959,7 @@ $ exit 또는 $ logout
   2. 하지만 똑같이 mysql.server start는 안됬다. 권한 바꿔보고 파일도 만들어보고 설치삭제하면서 지워지지 않은 파일 충돌고려해서 전부 삭제도 해보고 했다. 또 안됬다.
   3. mysql community를 다시 깔아볼까 했다. 문득 예전 강의 듣다가 같은 오류로 고생한게 생각이 났다. 8.0.26버전은 MAC에서 지원이 안되서 8.0.22버전으로 설치했더니 서버가 실행됬던 기억이 있었다. 역시 됬다~!ㅎㅎ
   4. error 1045 (28000)오류: mysql -u root -p 비밀번호를 입력 후 mysql에 접속했다.
-  이거 말고 정말 많고 작은 에러들이 많았다. 하루종일 에러를 해결하는데 보냈고 해결되서 매우기뻤지만 좀 찝찝했다. 하지만 미숙했던 터미널 사용에 전보다 많이 익숙해졌다. 오늘도 많이 성장했다~ 꾸준히 하자~
+  이거 말고 정말 많고 작은 에러들이 많았다. 하루종일 에러를 해결하는데 보냈고 해결되서 매우기뻤지만 좀 찝찝했다. 하지만 미숙했던 터미널 사용에 전보다 많이 익숙해졌다. 꾸준히 하자~
   
   </details>
 
@@ -1175,10 +1175,11 @@ $ exit 또는 $ logout
   <details>
   <summary>1110</summary>
   
-  - [ ] 제발 먼저 에러코드를 잘 읽자   <img width="1853" alt="스크린샷 2021-11-10 오후 8 47 52" src="https://user-images.githubusercontent.com/81910342/141107760-71c492a3-d599-4a4f-a712-2b9c0700d5b6.png">   column을 추가하고 sync 업데이트를 하지 않아서 Unknown column 'secondIll' in 'field list'(테이블목록에 secondIll이라는 컬럼을 모른다) 에러가 뜸
+  - [ ] 제발 먼저 에러코드를 잘 읽자   
+     <img width="1853" alt="스크린샷 2021-11-10 오후 8 47 52" src="https://user-images.githubusercontent.com/81910342/141107760-71c492a3-d599-4a4f-a712-2b9c0700d5b6.png">   column을 추가하고 sync 업데이트를 하지 않아서 Unknown column 'secondIll' in 'field list'(테이블목록에 secondIll이라는 컬럼을 모른다) 에러가 뜸
 
   - [ ] html 주문서만들기 - table-layout:fixed; 그리고 td로 width조정    ![스크린샷 2021-11-10 오후 2 29 51](https://user-images.githubusercontent.com/81910342/141107930-74895d57-0027-4096-903a-e23fc3fbdd9d.png)   
-   <img width="936" alt="스크린샷 2021-11-10 오후 3 49 42" src="https://user-images.githubusercontent.com/81910342/141105698-02f6a71c-ec23-477a-8080-43d36c9903d7.png">   
+     <img width="936" alt="스크린샷 2021-11-10 오후 3 49 42" src="https://user-images.githubusercontent.com/81910342/141105698-02f6a71c-ec23-477a-8080-43d36c9903d7.png">   
 
   - [ ] react - ?를 생략하면 데이터undefined로 인식해서 오류 제발 빼먹지말자  ![스크린샷 2021-11-10 오후 8 34 50](https://user-images.githubusercontent.com/81910342/141106072-0b5ad3bc-74c0-4bb2-b34b-e53d52b09927.png).  
   - [ ] nestJS - return new ResponseSuccessDto<any>(데이터 요청 성공시 응답으로 값을 넘겨줘야함 ex)파일등록시 등록Id를 넘겨주고 등록Id와 파일이랑 같이 넘겨줌);
@@ -1400,4 +1401,7 @@ $ exit 또는 $ logout
   
   </details>                                                                                                                   
                                                           
+                                                          
 
+
+                                                          
